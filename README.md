@@ -4,11 +4,15 @@
 🚀 I have a profound passion for embedded systems and firmware development. Committed to continuous learning, I actively engage in relevant projects to enhance my skills and knowledge in this dynamic field.
 
 🛠️ Technical Skills
-(**Programming Languages**): C (Embedded C), C++, Verilog HDL, Python
-(**Tools**): Git, Oscilloscope, Logic Analyzer, OpenOCD (Debugging), ARM GNU Toolchain
-(**Coursework**): Assembly Programming, Operating Systems, Computer Networks
-(**Hardware Platforms**): PSoC 4 (ARM M0+), Raspberry Pi 3B+, ARM Cortex-M4
-(**Communication Protocols**): UART, SPI, I2C
+(**Programming Languages**): C (Embedded C), C++, Verilog HDL, Python  
+
+(**Tools**): Git, Oscilloscope, Logic Analyzer, OpenOCD (Debugging), ARM GNU Toolchain  
+
+(**Coursework**): Assembly Programming, Operating Systems, Computer Networks  
+
+(**Hardware Platforms**): PSoC 4 (ARM M0+), Raspberry Pi 3B+, ARM Cortex-M4  
+
+(**Communication Protocols**): UART, SPI, I2C  
 
 🎯 I’m currently working on (*(**Linux device driver development**)*). 
 
