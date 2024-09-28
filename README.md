@@ -3,7 +3,7 @@
 
 🚀 I have a profound passion for embedded systems and firmware development. Committed to continuous learning, I actively engage in relevant projects to enhance my skills and knowledge in this dynamic field.
 
-##🛠️ Technical Skills  
+(**🛠️ Technical Skills**)  
 
 (**Programming Languages**): C (Embedded C), C++, Verilog HDL, Python  
 (**Tools**): Git, Oscilloscope, Logic Analyzer, OpenOCD (Debugging), ARM GNU Toolchain  
