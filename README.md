@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rachana Kulkarni
 ## I am an undergraduate student in Electronics and Communication Engineering at BMSCE in Bangalore
-![I am an undergraduate student in Electronics and Communication Engineering at BMSCE in Bangalore](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an undergraduate student in Electronics and Communication Engineering at BMSCE in Bangalore]
 
 I have a profound passion for embedded systems and firmware development. Committed to continuous learning, I actively engage in relevant projects to enhance my skills and knowledge in this dynamic field.
 
